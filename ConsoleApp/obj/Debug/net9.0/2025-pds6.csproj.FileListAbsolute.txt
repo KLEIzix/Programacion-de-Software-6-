@@ -1,0 +1,15 @@
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\bin\Debug\net9.0\2025-pds6.exe
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\bin\Debug\net9.0\2025-pds6.deps.json
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\bin\Debug\net9.0\2025-pds6.runtimeconfig.json
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\bin\Debug\net9.0\2025-pds6.dll
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\bin\Debug\net9.0\2025-pds6.pdb
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.AssemblyInfoInputs.cache
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.AssemblyInfo.cs
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.csproj.CoreCompileInputs.cache
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.sourcelink.json
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.dll
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\refint\2025-pds6.dll
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.pdb
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.genruntimeconfig.cache
+C:\Users\salak403\Desktop\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\ref\2025-pds6.dll
