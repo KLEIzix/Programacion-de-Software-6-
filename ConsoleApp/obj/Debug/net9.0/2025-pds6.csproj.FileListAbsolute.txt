@@ -21,3 +21,11 @@ D:\CUARTO SEMESTRE U 2025-2\PROGRAMACION-DE-SOFTWARE-2\Programacion-de-Software-
 D:\CUARTO SEMESTRE U 2025-2\PROGRAMACION-DE-SOFTWARE-2\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.dll
 D:\CUARTO SEMESTRE U 2025-2\PROGRAMACION-DE-SOFTWARE-2\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\refint\2025-pds6.dll
 D:\CUARTO SEMESTRE U 2025-2\PROGRAMACION-DE-SOFTWARE-2\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.pdb
+C:\Users\salak401\Downloads\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Downloads\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.AssemblyInfoInputs.cache
+C:\Users\salak401\Downloads\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.AssemblyInfo.cs
+C:\Users\salak401\Downloads\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Downloads\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.sourcelink.json
+C:\Users\salak401\Downloads\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.dll
+C:\Users\salak401\Downloads\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\refint\2025-pds6.dll
+C:\Users\salak401\Downloads\Programacion-de-Software-6-\ConsoleApp\obj\Debug\net9.0\2025-pds6.pdb

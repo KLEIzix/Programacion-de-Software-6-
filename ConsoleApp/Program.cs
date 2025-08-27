@@ -3,12 +3,13 @@ Console.WriteLine("Hello, World!");
 
 var persona = new Compañeros();
 Compañeros persona 1 = new Personas();
-Personas persona 2 = new Estudiantes();
+Compañeros persona 2 = new Estudiantes();
 
+// PROPIEDADES PUBLICAS
 persona.Id = 1;
 persona.Nombre = "Pepito Perez";
 persona.Actuvo = true;
-persona.Salario = 1400000.0m;
+persona.Salario = 1400000.0m; // --- > QUE NO SE OLVIDE DE COLOCAR LA M PARA TODOS LOS DECIMALES 
 persona.tipo = new Tipos()(Id = 1, Nombre = "Casado");
 Persona:VideoJuegos = new List<VideoJuegos>;
 persona.VideoJuegos.Add (new VideoJuegos() (Id = 1 Nombre = "Zelda"))

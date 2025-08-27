@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2025-pds6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56a5910645cd79c0ea8709d217abf1c2b2bf7e1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+230ced0b14c364951993baaaae589144eb670ebb")]
 [assembly: System.Reflection.AssemblyProductAttribute("2025-pds6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2025-pds6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
